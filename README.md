@@ -28,6 +28,10 @@ This website is deployed using GitHub Pages at: https://ranesh-amrita.github.io/
 - Vite
 - Tailwind CSS
 - shadcn/ui components
+
+## Last Updated
+
+Last updated: January 2025
 =======
 # Ranesh-Amrita.github.io
 >>>>>>> 54ae0c84baea4888eca2e574f1c1f42b75f206ac
