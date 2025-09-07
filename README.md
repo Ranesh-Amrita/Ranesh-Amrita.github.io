@@ -1,8 +1,7 @@
 
 # Ranesh Chandra Katta - Portfolio Website
 
-This is my personal portfolio website built with React and TypeScript. The original design is available at https://www.figma.com/design/tRU8a2SArThgKGryzuVLN3/Portfolio-Creation-from-Resume.
-
+This is my personal portfolio website built with React and TypeScript. 
 ## Features
 
 - **Responsive Design**: Works seamlessly across all devices
