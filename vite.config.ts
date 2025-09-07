@@ -5,6 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
+    base: '/Portfolio Creation from Resume/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
@@ -51,7 +52,15 @@
     },
     build: {
       target: 'esnext',
-      outDir: 'build',
+      outDir: 'dist',
+      rollupOptions: {
+        output: {
+          assetFileNames: 'assets/[name].[hash].[ext]',
+          chunkFileNames: 'assets/[name].[hash].js',
+          entryFileNames: 'assets/[name].[hash].js'
+        }
+      },
+      copyPublicDir: true
     },
     server: {
       port: 3000,
