@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { Button } from "./ui/button";
 import { ArrowDown, Github, Linkedin, Mail, Sparkles, Code2 } from "lucide-react";
 
