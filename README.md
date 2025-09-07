@@ -1,5 +1,4 @@
-# Ranesh-Amrita.github.io
->>>>>>> 54ae0c84baea4888eca2e574f1c1f42b75f206ac
+
 # Ranesh Chandra Katta - Portfolio Website
 
 This is my personal portfolio website built with React and TypeScript. The original design is available at https://www.figma.com/design/tRU8a2SArThgKGryzuVLN3/Portfolio-Creation-from-Resume.
@@ -29,9 +28,3 @@ This website is deployed using GitHub Pages at: https://ranesh-amrita.github.io/
 - Tailwind CSS
 - shadcn/ui components
 
-## Last Updated
-
-Last updated: January 2025
-=======
-# Ranesh-Amrita.github.io
->>>>>>> 54ae0c84baea4888eca2e574f1c1f42b75f206ac
