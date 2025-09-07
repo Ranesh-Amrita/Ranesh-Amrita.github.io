@@ -17,7 +17,7 @@ Run `npm run dev` to start the development server.
 
 ## Deployment
 
-This website is deployed using GitHub Pages at: https://ranesh-amrita.github.io/
+This website is deployed using GitHub Pages at: https://ranesh.me
 
 ## Technologies Used
 
